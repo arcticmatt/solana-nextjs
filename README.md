@@ -2,6 +2,10 @@
 
 A template for Solana projects that uses Anchor and Next.js.
 
+## Deployment
+
+See https://www.brianfriel.xyz/learning-how-to-build-on-solana/ ("Deploying our completed work for the rest of the world to see" section).
+
 ## Useful Commands
 
 ### Run tests 
