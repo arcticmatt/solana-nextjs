@@ -1,5 +1,5 @@
-import HomePage from "src/components/pages/home/HomePage";
+import HomePageDynamic from "src/components/pages/home/HomePageDynamic";
 
 export default function Home() {
-  return <HomePage />;
+  return <HomePageDynamic />;
 }
